@@ -8,4 +8,4 @@ Chapter 1 Naming - Assigning Names to Variables, Functions, Classes & More
     * pascalCase : AdminRole, UserRepository Python,Java,JavaScript
     * kebab_case : <side-drawer> HTML
 
-Chapter 2
+Chapter 2 
