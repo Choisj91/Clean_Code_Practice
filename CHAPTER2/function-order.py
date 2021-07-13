@@ -21,4 +21,5 @@ def last():
 
 # Will work
 # All the methods must me declared before the start method
+# After all the methods played before start() then start() work
 start()
