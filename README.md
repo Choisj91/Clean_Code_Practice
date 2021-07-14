@@ -13,5 +13,6 @@ Chapter 2 Code Structure, Comments & Formatting
 Chapter 3 Functions & Methods
 
     * Inside functions, minimize the number of parameters
+    * the number of parameter over 3, Always avoid
 
 Chapter 4 Control Structures & Errors
