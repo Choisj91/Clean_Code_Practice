@@ -19,3 +19,7 @@ Chapter 3 Functions & Methods
 Chapter 4 Control Structures & Errors
 
 Chapter 5
+
+Chapter 6
+
+Chpater 7
