@@ -13,7 +13,7 @@ Chapter 2 Code Structure, Comments & Formatting
 Chapter 3 Functions & Methods
 
     * Inside functions, minimize the number of parameters
-    * the number of parameter over 3, Always avoid
+    * Minimize The Number of Parameters -> Replace multiple parameters with a map or an array
     * Try to avoid output arguments - especially if they are unexpected
     * Functions Should be Small & Do One Thing!
 
