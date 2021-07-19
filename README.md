@@ -16,6 +16,7 @@ Chapter 3 Functions & Methods
     * Minimize The Number of Parameters -> Replace multiple parameters with a map or an array
     * Try to avoid output arguments - especially if they are unexpected
     * Functions Should be Small & Do One Thing!
+    * The name of a function should signal or imply that a side effect is likely to occur
 
 Chapter 4 Control Structures & Errors
 
