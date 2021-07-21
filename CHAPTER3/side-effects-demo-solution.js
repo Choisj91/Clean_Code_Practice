@@ -1,8 +1,11 @@
   
 function initApp() {
     try {
+
       connectDatabase();
+      
     } catch (error) {
+
       console.log(error.message);
       // showErrorMessage(...)
     }
