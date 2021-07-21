@@ -4,6 +4,7 @@ function connectDatabase() {
     if (didConnect) {
       return true;
     } else {
+      
       console.log('Could not connect to database!');
       return false;
     }
