@@ -19,6 +19,7 @@ function initApp() {
   }
   
   function determineSupportAgent(ticket) {
+
     if (ticket.requestType === 'unknown') {
       return findStandardAgent();
     }
