@@ -22,6 +22,6 @@ Chapter 4 Control Structures & Errors
 
 Chapter 5 Objects, Classes & Data Containers / Strunctures
 
-Chapter 6
+Chapter 6 Sumary & Checklist
 
-Chpater 7
+Chpater 7 Course RoundUp
