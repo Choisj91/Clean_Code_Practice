@@ -36,7 +36,12 @@ Chapter 5 Objects, Classes & Data Containers / Strunctures
     * Classes should have a high cohesion
     * Respect the "Law of Demeter"
     * Write SOLID classes
-    
+      - Single Responsibility Principle
+      - Open-Closed Principle
+      - Liskov Substitution Principle
+      - Interface Segregation Principle
+      - Dependency Inversion Principle
+     
 Chapter 6 Sumary & Checklist
 
 Chpater 7 Course RoundUp
