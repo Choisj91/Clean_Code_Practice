@@ -25,7 +25,7 @@ Chapter 4 Control Structures & Errors
       - Extract control structures and logic into separate functions
       - Polymorphism & Factory Functions
       - Replace if checks with errors
-    * Embrace errors
+    * Embrace errors -> error handling should typically be considered to be "one thing"
 
 Chapter 5 Objects, Classes & Data Containers / Strunctures
 
