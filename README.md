@@ -19,6 +19,13 @@ Chapter 3 Functions & Methods
     * The name of a function should signal or imply that a side effect is likely to occur
 
 Chapter 4 Control Structures & Errors
+    * Prefer positive checks
+    * Avoid deep nesting
+      - Use guards and fail fast
+      - Extract control structures and logic into separate functions
+      - Polymorphism & Factory Functions
+      - Replace if checks with errors
+    * Embrace errors
 
 Chapter 5 Objects, Classes & Data Containers / Strunctures
 
