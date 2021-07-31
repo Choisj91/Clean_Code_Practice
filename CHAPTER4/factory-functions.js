@@ -1,3 +1,5 @@
+// (c) Maximilian Schwarzmüller / Academind GmbH
+
 main();
 
 function main() {
