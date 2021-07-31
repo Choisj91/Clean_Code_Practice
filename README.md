@@ -30,6 +30,13 @@ Chapter 4 Control Structures & Errors
 
 Chapter 5 Objects, Classes & Data Containers / Strunctures
 
+    * We can differentiate between objects and data containers / data structures
+    * Consider using Polymorphism
+    * Classes should me small
+    * Classes should have a high cohesion
+    * Respect the "Law of Demeter"
+    * Write SOLID classes
+    
 Chapter 6 Sumary & Checklist
 
 Chpater 7 Course RoundUp
