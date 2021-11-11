@@ -44,4 +44,6 @@ Chapter 5 Objects, Classes & Data Containers / Strunctures
      
 Chapter 6 Sumary & Checklist
 
-Chpater 7 Course RoundUp
+Chapter 7 Course RoundUp
+
+Chapter 8 Practice
