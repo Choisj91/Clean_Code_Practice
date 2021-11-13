@@ -1,5 +1,5 @@
 # Clean_Code_Practice
-It is about Clean Code Practice and examples that I summarized
+It is about Clean Code. Practice and examples that I summarized for Clean Code
 
 Chapter 1 Naming - Assigning Names to Variables, Functions, Classes & More
 
