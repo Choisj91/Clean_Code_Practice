@@ -6,7 +6,7 @@ Chapter 1 Naming - Assigning Names to Variables, Functions, Classes & More
     * snake_case : is_valid  Python
     * camelCase : isValid Java, JavaScript
     * pascalCase : AdminRole, UserRepository Python,Java,JavaScript
-    * kebab_case : <side-drawer> HTML
+    * kebab_case : <side-drawer> HTML5
 
 Chapter 2 Code Structure, Comments & Formatting
 
