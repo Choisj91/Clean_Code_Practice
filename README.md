@@ -8,7 +8,7 @@ Chapter 1 Naming - Assigning Names to Variables, Functions, Classes & More
     * pascalCase : AdminRole, UserRepository Python,Java,JavaScript
     * kebab_case : <side-drawer> HTML5
 
-Chapter 2 Code Structure, Comments & Formatting
+Chapter 2 Code Structure, Comments & Formatting the code
 
 Chapter 3 Functions & Methods
 
